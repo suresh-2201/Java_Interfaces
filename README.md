@@ -1,1 +1,2 @@
 # Interfaces in Java
+Interfaces in Java are a powerful feature that allows the definition of a contract for classes to implement. They promote polymorphism, loose coupling, and enable multiple inheritance of type. With the introduction of default and static methods, interfaces have become even more versatile, allowing for more robust and flexible designs.
